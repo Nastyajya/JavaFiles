@@ -1,0 +1,15 @@
+{
+  "name": "Cars",
+  "cars": [
+    {
+      "name": "Ford",
+      "models": "Fiesta",
+      "year": 2018
+    },
+    {
+      "name": "Suzuki",
+      "models": "Jimny",
+      "year": 2020
+    }
+  ]
+}
