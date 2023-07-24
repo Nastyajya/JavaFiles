@@ -16,8 +16,6 @@ import java.util.zip.ZipFile;
 
 
 public class FilesTests {
-    ClassLoader cl = FilesTests.class.getClassLoader();
-    Gson gson = new Gson();
 
     @Test
     void filesZip() throws Exception {
